@@ -1,0 +1,11 @@
+1) Password encryption
+2) Create user page.
+3) TLS (https)
+4) Create database schema.
+ - win/loss stats table (foreign key to user_id)
+ - record game moves (database or files, idk)
+
+
+Questions:
+1) Can the application be hosted externally (heroku / aws), or do we need to use a host computer?
+2) "Player cannot make any game pause forever" -- Do we account for users that just get leave the application running with no moves, or does this only apply to crashes/disconnects?
