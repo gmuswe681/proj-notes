@@ -1,0 +1,3 @@
+- Prevent invalid characters in user creation.
+- Ensure same user can’t join a game they create.
+- Randomize user and game ID’s. Possibly do the same for rounds and moves, but those are move numbers, sooo….
