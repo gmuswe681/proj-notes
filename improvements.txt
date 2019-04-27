@@ -1,4 +1,5 @@
-- Prevent non-alphanumeric characters in username.
+- Fix zero Bid input.
+
 - Randomize user and game ID’s. Possibly do the same for rounds and moves, but those are move numbers, sooo….
 
 - Remove games created by player that are generated when looking for games.
@@ -11,4 +12,4 @@
 
 - Add auto-redirect for create game.
 
-- Get Hosting fixed tomorrow.
+- Add logging of user login/logout.
