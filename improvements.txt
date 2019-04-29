@@ -1,10 +1,10 @@
-- Fix zero Bid input.
-
 - Randomize user and game ID’s. Possibly do the same for rounds and moves, but those are move numbers, sooo….
 
 - Remove games created by player that are generated when looking for games.
 	(Validation already exists that should prevent players from joining the
+
 - Move code to generate a String response of HTML to its own class.
+
 - Delete from timeout map when deleting game (after timeout has passed).
 
 
